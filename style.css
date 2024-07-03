@@ -1,7 +1,7 @@
-.bg_color_header{
+.bg_color_header_top{
 background-color: rgb(44, 62, 80);
 }
-header{
+.bg_color_header_bot{
     background-color: rgb(26, 188, 156);
 }
 i{
